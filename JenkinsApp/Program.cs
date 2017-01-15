@@ -13,8 +13,6 @@ namespace JenkinsApp
             string test = "onurunyeri";
 
             int a = test.Length;
-
-            test
         }
     }
 }
